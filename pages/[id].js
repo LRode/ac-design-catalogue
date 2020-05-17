@@ -3,7 +3,6 @@ import Head from 'next/head';
 
 const Design = ({ id }) => {
     // const { data, error } = useSWR('/api/user', fetch);
-
     return (
         <div>
             <Head>
