@@ -2,6 +2,6 @@
     "name": "ac-design-catalogue",
     "version": 1,
     "env": {
-      "MONGODB_URI": "@cluster0-3ztvq.mongodb.net"
+      "MONGODB_URI": "@my-mongodb-uri"
     }
   }
