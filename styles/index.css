@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply box-border;
+}
+
+html,
+body {
+  @apply p-0 m-0 font-body;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+.home__header {
+    @apply w-full bg-pink pt-8 pb-8;
+}
+
+.home__h1 {
+    @apply text-white font-bold text-3xl leading-none mb-3
+}
+
+.home__h2 {
+    @apply text-white leading-none text-base;
+    width: 320px;
+    max-width: 100%;
+}
