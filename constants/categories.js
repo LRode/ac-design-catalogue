@@ -1,0 +1,22 @@
+export const All = 'All';
+export const Patterns = 'Patterns';
+export const Shirts = 'Shirts';
+export const Dresses = 'Dresses';
+export const Hats = 'Hats';
+
+export const Pattern = 'Pattern';
+export const BrimmedHat = 'Brimmed Hat';
+export const KnitCap = 'Knit Cap';
+export const BrimmedCap = 'Brimmed Cap';
+export const TankTop = 'Tank Top';
+export const ShortSleeveTee = 'ShortSleeveTee';
+export const LongSleeveTee = 'LongSleeveTee';
+export const Sweater = 'Sweater';
+export const Hoodie = 'Hoodie';
+export const Coat = 'Coat';
+export const RoundDress = 'Round Dress';
+export const BalloonHemDress = 'Balloon-hem Dress';
+export const Robe = 'Robe';
+export const SleevelessDress = 'Sleeveless Dress';
+export const ShortSleeveDress = 'Short-sleeve Dress';
+export const LongSleeveDress = 'Long-sleeve Dress';

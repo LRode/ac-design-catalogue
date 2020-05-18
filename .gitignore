@@ -33,3 +33,5 @@ yarn-error.log*
 
 # Ignore insert file since it has personal login credentials
 /utils/insert-designs.js
+
+.vercel
