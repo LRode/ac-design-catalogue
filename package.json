@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mongodb": "^3.5.7",
     "next": "^9.3.3",
     "next-react-svg": "^1.1.1",
